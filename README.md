@@ -3,6 +3,8 @@
 # Project name
 
 * (간략히 전체 프로젝트를 설명하고, 최종 목표가 무엇인지에 대해 기술)
+* AI로 만드는 인생네컷
+* 402-pose-estimation 모델과 205-background-removal 모델을 적용해 웹캠으로 동작을 인식하고 각 동작의 배경을 바꾼 사진을 출력할 수 있다.
 
 ## Requirement
 
